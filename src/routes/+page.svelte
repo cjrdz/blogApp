@@ -1,2 +1,29 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+	function greet() {
+		alert('Welcome to Svelte!');
+	}
+</script>
+
+<header>
+	<div class="container">
+        <h4>Azure content</h4>
+    </div>
+</header>
+
+<body>
+	<div class="container">
+		<article>
+			<header>Lesson 1</header>
+		</article>
+	</div>
+	<div class="container">
+		<article>
+			<header>Lesson 2</header>
+		</article>
+	</div>
+	<div class="container">
+		<article>
+			<header>Lesson 3</header>
+		</article>
+	</div>
+</body>
