@@ -33,6 +33,13 @@ To create a production version of your app:
 npm run build
 ```
 
+## Links
+```bash
+[npm run build](https://svelte.dev/docs/svelte/overview
+https://picocss.com/
+https://mdsvex.pngwn.io/docs)
+```
+
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
