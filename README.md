@@ -34,10 +34,13 @@ npm run build
 ```
 
 ## Links
+
+Here are the links for the project:
+
 ```bash
-[npm run build](https://svelte.dev/docs/svelte/overview
+npm run build](https://svelte.dev/docs/svelte/overview
 https://picocss.com/
-https://mdsvex.pngwn.io/docs)
+https://mdsvex.pngwn.io/docs
 ```
 
 You can preview the production build with `npm run preview`.
